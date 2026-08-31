@@ -18,7 +18,7 @@ Official Perl client for the [SimpleBilly API](https://simplebilly.com/api/docs)
 
 ## Installation
 
-The package is published to the Perl package registry (and to [GitHub Packages](https://github.com/orgs/simplebilly/packages) — free for public packages).
+The package is published to the Perl package registry (and to [GitHub Packages](https://github.com/orgs/simplebilly/packages)).
 See the [Releases](https://github.com/simplebilly/simplebilly-perl/releases) page for the list
 of versions and registry coordinates.
 
