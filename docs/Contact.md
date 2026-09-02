@@ -1,0 +1,95 @@
+# WWW::OpenAPIClient::Object::Contact
+
+## Load the model package
+```perl
+use WWW::OpenAPIClient::Object::Contact;
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**account_holder** | **string** |  | [optional] 
+**acquisition_cost** | **string** |  | [optional] 
+**address_supplement** | **string** |  | [optional] 
+**attention** | **string** |  | [optional] 
+**bank_name** | **string** |  | [optional] 
+**bic** | **string** |  | [optional] 
+**buyer_reference** | **string** |  | [optional] 
+**category** | **string** |  | [optional] 
+**certificate_authority** | **string** |  | [optional] 
+**certificate_number** | **string** |  | [optional] 
+**certificate_paragraph** | **string** |  | [optional] 
+**certificate_valid_until** | **string** |  | [optional] 
+**city** | **string** |  | [optional] 
+**company_name** | **string** |  | [optional] 
+**contact_id** | **string** |  | 
+**contact_persons** | **object** |  | 
+**contact_type** | **string** |  | 
+**country** | **string** |  | [optional] 
+**created_at** | **string** |  | [readonly] 
+**credit_limit** | **string** |  | [optional] 
+**creditor_account_skr03** | **string** |  | [optional] 
+**creditor_account_skr04** | **string** |  | [optional] 
+**currency** | **string** |  | [optional] 
+**customer_number** | **string** |  | [optional] 
+**debitor_account_skr03** | **string** |  | [optional] 
+**debitor_account_skr04** | **string** |  | [optional] 
+**default_debitor_number** | **string** |  | [optional] 
+**delivery_block** | **boolean** |  | [optional] 
+**department** | **string** |  | [optional] 
+**discount_days** | **int** |  | [optional] 
+**discount_percentage** | **string** |  | [optional] 
+**donation_receipt_eligible** | **boolean** |  | [optional] 
+**email** | **string** |  | [optional] 
+**external_id** | **string** |  | [optional] 
+**fax** | **string** |  | [optional] 
+**iban** | **string** |  | [optional] 
+**industry** | **string** |  | [optional] 
+**is_active** | **boolean** |  | [optional] 
+**is_member** | **boolean** |  | [optional] 
+**is_nonprofit** | **boolean** |  | [optional] 
+**last_contact_date** | **string** |  | [optional] 
+**last_purchase_date** | **string** |  | [optional] 
+**leitweg_id** | **string** |  | [optional] 
+**lifetime_value** | **string** |  | [optional] 
+**mandate_date** | **string** |  | [optional] 
+**mandate_reference** | **string** |  | [optional] 
+**marketing_consent** | **boolean** |  | [optional] 
+**marketing_consent_at** | **string** |  | [optional] 
+**marketing_consent_source** | **string** |  | [optional] 
+**mobile** | **string** |  | [optional] 
+**name** | **string** |  | 
+**next_contact_date** | **string** |  | [optional] 
+**notes** | **string** |  | [optional] 
+**opening_balance** | **string** |  | [optional] 
+**opening_balance_date** | **string** |  | [optional] 
+**order_reference** | **string** |  | [optional] 
+**payment_block** | **boolean** |  | [optional] 
+**payment_grace_period_days** | **int** |  | [optional] 
+**payment_methods** | **ARRAY[string]** |  | [optional] 
+**payment_terms** | **string** |  | [optional] 
+**phone** | **string** |  | [optional] 
+**rating** | **int** |  | [optional] 
+**sales_representative** | **string** |  | [optional] 
+**social_media** | **object** |  | 
+**source** | **string** |  | [optional] 
+**state** | **string** |  | [optional] 
+**street** | **string** |  | [optional] 
+**street_number** | **string** |  | [optional] 
+**supplier_number** | **string** |  | [optional] 
+**tags** | **ARRAY[string]** |  | [optional] 
+**tax_country** | **string** |  | [optional] 
+**tax_number** | **string** |  | [optional] 
+**tax_office** | **string** |  | [optional] 
+**total_invoices** | **int** |  | [optional] 
+**total_revenue** | **string** |  | [optional] 
+**updated_at** | **string** |  | [optional] [readonly] 
+**vat_id** | **string** |  | [optional] 
+**vat_id_validated** | **boolean** |  | [optional] 
+**vat_id_validation_date** | **string** |  | [optional] 
+**website** | **string** |  | [optional] 
+**zip** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
